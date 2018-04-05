@@ -591,6 +591,13 @@
       "Workshops & Onsite Training": {
         "order": 2,
         "resources": {
+          "Acceleb: {
+            "desc": "Customized, instructor-led Angular Training",
+            "rev": true,
+            "title": "Accelebrate",
+            "url": "https://www.accelebrate.com/angular-training"
+          },
+
           "-KLIBo3ANF3-1B9wxsoB": {
             "desc": "Angular Classes from Intertech in Minnesota",
             "rev": true,
